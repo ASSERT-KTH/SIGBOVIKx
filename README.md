@@ -11,6 +11,9 @@
 
 Think of it as academia's April Fool's Day, but with more LaTeX. Hosted at Carnegie Mellon University, SIGBOVIK (Special Interest Group on Harry Q. Bovik) honors the legendary researcher who definitely exists and isn't made up at all.
 
+- [SIGBOVIK 2024 proceedings](http://www.sigbovik.org/2024/proceedings.pdf)
+- [SIGBOVIK 2023 proceedings](http://www.sigbovik.org/2023/proceedings.pdf)
+
 ## 🌍 SIGBOVIKx: When You Can't Make It to Pittsburgh
 
 Can't travel to CMU? Don't worry! SIGBOVIKx brings the joy of academic absurdity to your university. It's like TEDx but more serious. When your favorite band can't come to your city, you start a cover band, except our cover band has PhDs.
@@ -21,10 +24,11 @@ In your city:
 
 ## SIGBOVIKx 2025 at KTH
 
+
 **Date:** April 4, 2025  
 **Time:** 15:00 (or 3pm for those allergic to 24-hour time)  
-**Location:** Lindstedtsvägen 5, TCS, room 4523 (inappropriate laughter)
-**🏆 SIGBOVIKx Committee**: Led with questionable authority by Martin Monperrus, Chair of KTH SIGBOVIKx Committee, CPU (Chief Pun Officer), and Person Who Reserved The Room
+**Location:** Lindstedtsvägen 5, TCS, room 4523 (inappropriate laughter)  
+**SIGBOVIKx Committee**: Led with questionable authority by Martin Monperrus, Chair of KTH SIGBOVIKx Committee, CPU (Chief Pun Unoffical), and Person Who Reserved The Room
 
 Program:
 - Introduction & Disinformation (Martin Monperrus)
