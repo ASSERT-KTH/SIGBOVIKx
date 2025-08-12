@@ -34,7 +34,7 @@ Program:
 - Introduction & Disinformation (Martin Monperrus)
 - [UPPERCASE IS ALL YOU NEED](https://github.com/ASSERT-KTH/UPPERCASE_IS_ALL_YOU_NEED/blob/main/SIGBOVIK_2025__UPPERCASE_IS_ALL_YOU_NEED.pdf) (SIGBOVIK 2025, ANDERSSON ET AL.)
 - SIGBOVIK Cover Art Over the Years (Deepika Tiwari)
-- An LLM's Apology: Outsourcing Awkwardness in the Age of AI (SIGBOVIK 2025)
+- [An LLM's Apology: Outsourcing Awkwardness in the Age of AI](https://arxiv.org/abs/2506.13685) (SIGBOVIK 2025)
 - Future work of the SIGBOVIKx committee
 
 ![Image](https://github.com/user-attachments/assets/1d469136-04f0-4a0e-965a-3480c84d305a)
