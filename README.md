@@ -33,7 +33,7 @@ In your city:
 Program:
 - Introduction & Disinformation (Martin Monperrus)
 - [UPPERCASE IS ALL YOU NEED](https://github.com/ASSERT-KTH/UPPERCASE_IS_ALL_YOU_NEED/blob/main/SIGBOVIK_2025__UPPERCASE_IS_ALL_YOU_NEED.pdf) (SIGBOVIK 2025, ANDERSSON ET AL.)
-- SIGBOVIK Cover Art Over the Years (Deepika Tiwari)
+- [SIGBOVIK Cover Art Over the Years](https://docs.google.com/presentation/d/1g92L4Hngfan-sv6blrBmb4BS7vgfGxedl5xNK3XBE84/edit?usp=sharing) (Deepika Tiwari)
 - [An LLM's Apology: Outsourcing Awkwardness in the Age of AI](https://arxiv.org/abs/2506.13685) (SIGBOVIK 2025)
 - Future work of the SIGBOVIKx committee
 
